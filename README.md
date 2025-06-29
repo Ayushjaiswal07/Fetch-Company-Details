@@ -1,5 +1,9 @@
 # 🕵️‍♂️ Company Data Extractor with Gemini AI
 
+## ✅ Live Demo
+
+🔗 [https://fetch-company-details.streamlit.app/](https://fetch-company-details.streamlit.app/)
+
 This project is a web-based tool built with **Streamlit** that allows users to submit a company's website URL and their email address. The tool:
 
 1. Scrapes the website content and important subpages (like About, Contact, Services, Careers, etc.).
